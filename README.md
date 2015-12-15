@@ -10,4 +10,6 @@ For the logic of the game, pure Javasccript was used. The graphics were created 
 
 The main goal is to run this project in desktops, but simple touch control was added so it can be executed in tablets and smartphones as well.
 
+Game can be played at: http://igorceridorio.github.io/pacman
+
 University of Nebraska at Kearney. CSIT422 - Computer Graphics - Fall 2015.
